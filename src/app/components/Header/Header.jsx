@@ -38,7 +38,7 @@ const Header = () => {
       </div>
 
       <div className='flex justify-end items-center'>
-        <a className='uppercase text-xl px-10 py-3 bg-white font-bold text-orange-700'>Let's Connect</a>
+        <a href='/contact' className='uppercase text-xl px-10 py-3 bg-white font-bold text-orange-700'>Let's Connect</a>
       </div>
     </nav>
   );
